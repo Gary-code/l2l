@@ -14,11 +14,11 @@
 
 ## 二叉树系列
 
-| 题号 | 难度      | 题目名                                                       | 分类   | 概述 | 相关题目 |
-| ---- | --------- | ------------------------------------------------------------ | ------ | ---- | -------- |
-| 95   | :flushed: | [95. 不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | 二叉树 |      |          |
-|      |           |                                                              |        |      |          |
-|      |           |                                                              |        |      |          |
+| 题号 | 难度       | 题目名                                                       | 分类   | 概述         | 相关题目 |
+| ---- | ---------- | ------------------------------------------------------------ | ------ | ------------ | -------- |
+| 95   | :flushed:  | [95. 不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) | 二叉树 |              | 96       |
+| 96   | :flushed:  | [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | 二叉树 |              | 95       |
+| 104  | :laughing: | [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | 二叉树 | 经典两种思路 | 543      |
 
 
 
