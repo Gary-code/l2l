@@ -22,6 +22,7 @@
 | 104  | :laughing: | [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | 二叉树 | 经典两种思路 | 543      |
 | 543  | :laughing: | [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | 二叉树 | 后序位置计算 | 104      |
 | 144  | :laughing: | [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | 二叉树 | 两种思路实践 | 543      |
+| 94   | :laughing: | [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | 二叉树 | 两种实现思路 | 144      |
 
 
 
